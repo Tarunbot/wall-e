@@ -1,0 +1,144 @@
+{
+  "project_info": {
+    "project_number": "448251960559",
+    "firebase_url": "https://testerwalle.firebaseio.com",
+    "project_id": "testerwalle",
+    "storage_bucket": "testerwalle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448251960559:android:14e38ff4197bb175",
+        "android_client_info": {
+          "package_name": "com.example.testerwalle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448251960559-oben2bl3aemvvsufjfage97kqs6h8cpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testerwalle",
+            "certificate_hash": "11e666a49c207abf4786a5c72acc1e379a13d07f"
+          }
+        },
+        {
+          "client_id": "448251960559-00t412chvd3c4pse7f2akqjterpgaq9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCpknAxLssxCMmi4Z1IMvbLYyXdZie4TA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448251960559-00t412chvd3c4pse7f2akqjterpgaq9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448251960559:android:3975bfc9b71f845c",
+        "android_client_info": {
+          "package_name": "com.example.wall_e"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448251960559-sq0raraoq36ptm41u2kvksfieb1p7buc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wall_e",
+            "certificate_hash": "11e666a49c207abf4786a5c72acc1e379a13d07f"
+          }
+        },
+        {
+          "client_id": "448251960559-00t412chvd3c4pse7f2akqjterpgaq9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCpknAxLssxCMmi4Z1IMvbLYyXdZie4TA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448251960559-00t412chvd3c4pse7f2akqjterpgaq9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448251960559:android:d0e3b2205c43fb8c",
+        "android_client_info": {
+          "package_name": "com.uploadingwalle.wall_e"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448251960559-dcqaj1650634ua6bf1nl25ffuc28oapk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uploadingwalle.wall_e",
+            "certificate_hash": "51e95f42a5c7f0314c6ae41756649e062aff3230"
+          }
+        },
+        {
+          "client_id": "448251960559-00t412chvd3c4pse7f2akqjterpgaq9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCpknAxLssxCMmi4Z1IMvbLYyXdZie4TA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448251960559-00t412chvd3c4pse7f2akqjterpgaq9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-7891945644405589~2502320663"
+    }
+  ],
+  "configuration_version": "1"
+}
